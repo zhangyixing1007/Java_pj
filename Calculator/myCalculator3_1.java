@@ -11,9 +11,6 @@ public class myCalculator3_1{
 	JPanel pan2 = new JPanel();
 	
 	String input = "";//result						
-	String operator = "";//operator
-	
-	int k = 1;
 	
 	JTextField screen = new JTextField(15);
 	JButton bt_clear = new JButton("C");
